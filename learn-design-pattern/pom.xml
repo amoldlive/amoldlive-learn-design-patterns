@@ -6,5 +6,7 @@
   <packaging>pom</packaging>
   <modules>
   	<module>design-pattern-creational</module>
+  	<module>design-pattern-behavioral</module>
+  	<module>design-pattern-structural</module>
   </modules>
 </project>
